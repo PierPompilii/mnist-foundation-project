@@ -1,0 +1,6 @@
+torch
+torchvision
+streamlit
+psycopg2-binary  # For interacting with PostgreSQL
+numpy
+matplotlib      # For visualizations, if needed
