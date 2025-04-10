@@ -1,4 +1,4 @@
-# MNIST Foundation Project
+# MNIST Foundation Project (Still in Progress)
 
 This project is a **digit recognition web application** built using a deep learning model trained on the MNIST dataset. Users can draw or upload a digit, and the app will use a trained PyTorch model to predict what digit (0–9) it is, along with the model’s confidence.
 
